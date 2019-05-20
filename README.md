@@ -1,6 +1,6 @@
 # Parabola - Site
 This is the repo for the official PARABOLA website. Feel free to fork it or study it for your own purposes. It was 
-built using Vue.js and Gridsome.
+built using [Vue.js](https://vuejs.org) and [Gridsome](https://gridsome.org).
 
 To work from it, you'll need to install the Gridsome CLI tool:
 ```
