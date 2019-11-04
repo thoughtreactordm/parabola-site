@@ -9,7 +9,7 @@
         <g-link class="nav__link" to="/about">About</g-link>
       </nav>
     </header>-->
-    <slot/>
+    <slot />
   </div>
 </template>
 
@@ -21,20 +21,32 @@ query {
 }
 </static-query>
 
-<style>
-  html, body {
-    height: 100vh;
-  }
+<style lang="scss">
+@import url("https://fonts.googleapis.com/css?family=Lato:400,900|Montserrat+Alternates:200,400&display=swap");
+
+html,
+body {
+  height: 100vh;
+}
 
 body {
   background: black;
   color: white;
-
-  font-family: sans-serif;
   height: 100%;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding: 0;
+  margin: 0;
+  font-family: "Lato", sans-serif;
+
+  h1,
+  h2,
+  h3 {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 200;
+  }
+
+  img {
+    width: 100%;
+  }
 }
 </style>
