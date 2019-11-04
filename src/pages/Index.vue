@@ -44,6 +44,7 @@ div.logo-container {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 
   div.logos {
     margin-bottom: 12.5%;
