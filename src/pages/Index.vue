@@ -8,7 +8,7 @@
           <g-image alt="PARABOLA" src="~/assets/img/logo_white.svg" class="logo top" />
         </div>
 
-        <h1>A Physics-driven First Person Puzzle Game</h1>
+        <h1>A Physics-driven 2.5D Metroidvania Puzzler</h1>
         <h2>Official Site Coming Holiday 2019</h2>
 
         <a href="https://thought-reactor.net">
