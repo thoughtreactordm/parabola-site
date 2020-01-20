@@ -8,8 +8,7 @@
           <g-image alt="PARABOLA" src="~/assets/img/logo_white.svg" class="logo top" />
         </div>
 
-        <h1>A Physics-driven 2.5D Metroidvania Puzzler</h1>
-        <h2>Official Site Coming Holiday 2019</h2>
+        <h1>Official Site Coming Holiday 2020</h1>
 
         <a href="https://thought-reactor.net">
           <g-image alt="Thought Reactor" src="~/assets/img/tr-logo.png" class="tr-logo" />
@@ -22,7 +21,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Site Coming Holiday 2019"
+    title: "Site Coming Spring 2020"
   }
 };
 </script>
