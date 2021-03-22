@@ -22,10 +22,10 @@
 
         <h1>Official Site Coming Soon</h1>
 
-        <a href="https://thought-reactor.net">
+        <a href="https://mindnumbinteractive.com">
           <g-image
-            alt="Thought Reactor"
-            src="~/assets/img/tr-logo.png"
+            alt="Mindnumb Interactive"
+            src="~/assets/img/logo.svg"
             class="tr-logo"
           />
         </a>
